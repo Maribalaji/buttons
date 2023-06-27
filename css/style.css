@@ -1,0 +1,98 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+div{
+	
+	padding:150px
+}
+
+#button1{
+	color:red;
+	background-color:gold;
+	padding:10px;
+	margin:20px;
+	border-radius:3px;
+}
+#button2{
+	color:green;
+	background-color:yellow;
+	padding:10px;
+	margin:20px;
+	border-radius:20px;
+}
+#button3{
+	color:brown;
+	background-color:orange;
+	padding:10px;
+	margin:20px;
+	border-radius:10px;
+}
+#button4{
+	color:blue;
+	background-color:gray;
+	padding:10px;
+	margin:20px;
+	border-radius:5px;
+}
+#button5{
+	color:black;
+	background-color:orange;
+	padding:10px;
+	margin:20px;
+	border-radius:0 30px 0 30px;
+}
+#button6{
+	color:red;
+	background-color:silver;
+	padding:10px;
+	margin:20px;
+	border-radius:30px 0 30px 0;
+}
+#button7{
+	color:black;
+	background-color:green;
+	padding:10px;
+	margin:20px;
+	border-radius:50px 0px 0px 50px;
+}
+#button8{
+	color:aqua;
+	background-color:brown;
+	padding:10px;
+	margin:20px;
+	border:4px solid yellow;
+	border-radius:3px;
+}
+#button9{
+	color:gray;
+	background-color:white;
+	padding:10px;
+	margin:20px;
+	border:3px double red; 
+	border-radius:30px;
+}
+#button10{
+	color:red;
+	background-color:pale-yellow;
+	padding:10px;
+	margin:20px;
+	border:dashed green;
+	border-radius:3px;
+}
+#button11{
+	color:darkorange;
+	background-color:white;
+	padding:10px;
+	margin:20px;
+	border:dotted thick black ;
+	border-radius:100%;
+}
+#button12{
+	color:brown;
+	background-color:salmon;
+	padding:10px;
+	margin:20px;
+	border-radius:50%;
+}
